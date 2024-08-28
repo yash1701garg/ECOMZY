@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ECOMZY/static/css/main.04899563.css",
-    "main.js": "/ECOMZY/static/js/main.10f28c1e.js",
+    "main.js": "/ECOMZY/static/js/main.2b7ddee7.js",
     "index.html": "/ECOMZY/index.html",
     "main.04899563.css.map": "/ECOMZY/static/css/main.04899563.css.map",
-    "main.10f28c1e.js.map": "/ECOMZY/static/js/main.10f28c1e.js.map"
+    "main.2b7ddee7.js.map": "/ECOMZY/static/js/main.2b7ddee7.js.map"
   },
   "entrypoints": [
     "static/css/main.04899563.css",
-    "static/js/main.10f28c1e.js"
+    "static/js/main.2b7ddee7.js"
   ]
 }
